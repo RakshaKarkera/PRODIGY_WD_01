@@ -1,0 +1,1 @@
+Furni.shop is a sleek, responsive e-commerce site designed to highlight modern furniture products with engaging visuals and promotional offers. Built using HTML, CSS, and JavaScript, it features a dynamic layout with a user-friendly navigation system and interactive elements.
